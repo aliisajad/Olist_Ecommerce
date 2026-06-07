@@ -40,16 +40,16 @@
           <li>
             <strong>Rapid Revenue Growth in 2017:</strong>
             <ul>
-              <li>Revenue grew from $111K in January 2017 to a peak of $987K in November 2017, representing nearly an 8x increase within a single year.</li>
-              <li>Growth was driven primarily by rising order volumes rather than higher spend per order.</li>
-              <li>The November 2017 peak aligned with Black Friday demand, with order count reaching 7,289 in the same month.</li>
+              <li>Olist demonstrated consistent month-over-month revenue growth throughout 2017, increasing from $111K in January to a peak of $987K in November, representing nearly an 8x increase within a single year.</li>
+              <li>This growth is driven primarily by rising order volumes rather than higher spend per order.</li>
+              <li>Following that peak, revenue stabilized at around $930K per month throughout 2018, well above the overall period average of $659K, indicating the growth was sustainable and not purely event driven.</li>
             </ul>
           </li>
           <li>
-            <strong>Sustained Performance in 2018:</strong>
+            <strong>Critical Retention Gap:</strong>
             <ul>
-              <li>Following the November peak, revenue stabilized at approximately $930K per month throughout 2018, well above the overall period average of $659K.</li>
-              <li>This indicates that growth was sustainable and not purely event-driven.</li>
+              <li>The most critical strategic finding is in customer retention: 97% of customers purchased only once, yet repeat buyers generated $260 per customer compared to $138 for one-time buyers, nearly double the value.</li>
+              <li>With an average return window of 81 days, there is a clear and time-bound opportunity to convert first-time buyers through targeted remarketing. Closing this gap is the single highest-leverage action available to Olist.</li>
             </ul>
           </li>
         </ol>
@@ -57,17 +57,11 @@
       <td width="460" valign="top">
         <ol start="3">
           <li>
-            <strong>Critical Retention Gap:</strong>
+            <strong>Product & Regional Highlights:</strong>
             <ul>
-              <li>97% of customers purchased only once, yet repeat buyers generated $260 per customer compared to $138 for one-time buyers — nearly double the value.</li>
-              <li>With an average return window of 81 days, there is a clear and time-bound opportunity to convert first-time buyers through targeted remarketing.</li>
-            </ul>
-          </li>
-          <li>
-            <strong>Regional Concentration:</strong>
-            <ul>
-              <li>São Paulo alone accounted for 38% of total sales revenue.</li>
-              <li>Several northern states showed higher AOV despite lower volumes, pointing to an untapped regional expansion opportunity.</li>
+              <li>Health & Beauty led all categories by revenue ($1.2M+), while São Paulo alone accounted for 38% of total sales.</li>
+              <li>Seasonal peaks, particularly November Black Friday, drove disproportionate volume.</li>
+              <li>Several untapped northern states showed higher average order values despite lower volumes, pointing to a regional expansion opportunity.</li>
             </ul>
           </li>
         </ol>
@@ -104,23 +98,23 @@
     <td>
       <strong>Sales Revenue</strong>
       <ol>
-        <li>Consistent Growth Throughout 2017
+        <li>Strong revenue growth throughout 2017
           <ul>
-            <li>Revenue increased from $111K in January to nearly $987K in November 2017, an 8x increase within a single year.</li>
-            <li>Growth accelerated in Q4, with November recording the highest monthly revenue across the entire period.</li>
+            <li>Revenue increased from $111K in January to nearly $987K in November 2017, representing an 8x increase within a single year.</li>
+            <li>Growth accelerated in Q4, with November recording the highest monthly revenue.</li>
           </ul>
         </li>
         <li>Revenue Stabilization in 2018
           <ul>
             <li>Following the November peak, monthly revenue remained consistently above the overall average of $659K throughout most of 2018.</li>
-            <li>Revenue fluctuated between roughly $830K and $950K, indicating sustained demand rather than a one-off spike.</li>
+            <li>Revenue fluctuated between roughly $830K and $950K, indicating sustained demand.</li>
           </ul>
         </li>
         <li>Seasonal Demand Patterns
           <ul>
             <li>A temporary slowdown occurred during June–July 2017 before recovering in Q4.</li>
-            <li>Q1 2018 experienced a post-holiday dip before rebounding between March and May.</li>
-            <li>Strongest performance aligns with major shopping events, particularly Black Friday.</li>
+            <li>Q1 2018 experienced a post-holiday decline before rebounding between March and May.</li>
+            <li>The strongest performance aligns with major shopping periods, particularly Black Friday and the holiday season.</li>
           </ul>
         </li>
       </ol>
@@ -128,13 +122,19 @@
       <ol>
         <li>AOV Remained Relatively Stable
           <ul>
-            <li>The average AOV across the period was approximately $121, with most months falling within a narrow range of $109–$133.</li>
-            <li>There was no significant upward trend in AOV over time, indicating growth was volume-driven.</li>
+            <li>The average AOV across the analysis period was approximately $121.</li>
+            <li>Most monthly values remained within a narrow range of $109–$133.</li>
           </ul>
         </li>
-        <li>Recovery in Mid-2018
+        <li>Limited Long-Term Growth
           <ul>
-            <li>After declining through late 2017 and early 2018, AOV recovered and remained near or above the average during Q2 2018.</li>
+            <li>While AOV experienced short-term fluctuations, there was no significant upward trend over time.</li>
+            <li>The highest AOV occurred in April 2017 at $133, while the lowest occurred in July 2017 at $109.</li>
+          </ul>
+        </li>
+        <li>Recovery During 2018
+          <ul>
+            <li>After declining through late 2017 and early 2018, AOV recovered and remained near or above the average during much of Q2 2018.</li>
           </ul>
         </li>
       </ol>
@@ -142,14 +142,20 @@
       <ol>
         <li>Order Volume Grew Significantly
           <ul>
-            <li>Monthly orders grew from 750 in January 2017 to 7,289 by November 2017, closely mirroring the revenue trend.</li>
-            <li>Order volume remained consistently above the overall average of 4,811 per month throughout 2018.</li>
+            <li>Monthly orders increased from 750 orders in January 2017 to 7,289 orders by late 2017.</li>
+            <li>This growth closely mirrors the revenue trend.</li>
           </ul>
         </li>
-        <li>Volume Drove the November Peak
+        <li>November 2017 Order Spike
           <ul>
-            <li>The November 2017 revenue spike was primarily driven by increased order volume, not higher AOV.</li>
-            <li>Although customers spent slightly less per order during Q4 2017, the surge in order count more than offset the AOV decline.</li>
+            <li>Order count reached its highest level during the same period that revenue peaked.</li>
+            <li>This indicates that the November 2017 revenue spike was largely driven by increased order volume.</li>
+          </ul>
+        </li>
+        <li>Sustained Performance in 2018
+          <ul>
+            <li>Order volume remained consistently above the overall average of 4,811 orders per month throughout 2018.</li>
+            <li>While customers spent slightly less per order during Q4 2017 and Q1 2018, the increase in order volume offset the decline in AOV, resulting in higher overall sales revenue.</li>
           </ul>
         </li>
       </ol>
@@ -169,29 +175,56 @@
   </tr>
   <tr>
     <td colspan="2">
+      <strong>Top Categories by Revenue & Sales Volume</strong>
       <ol>
         <li><strong>Health & Beauty Was Olist's Best-Performing Category</strong>
           <ul>
             <li>Health & Beauty generated the highest total revenue, exceeding $1.2M, making it Olist's largest product category.</li>
-            <li>Its combination of high volume and high revenue contribution makes it a key driver of overall business performance.</li>
+            <li>The category maintained strong sales volume throughout the analysis period, reflecting consistent customer demand.</li>
+            <li>Its combination of scale and revenue contribution makes it a key driver of overall business performance.</li>
           </ul>
         </li>
         <li><strong>Watches & Gifts Ranked Among the Top Revenue Generators</strong>
           <ul>
-            <li>Watches & Gifts generated strong revenue despite selling fewer units than several other categories, supported by a relatively high AOV.</li>
-            <li>This highlights the revenue potential of higher-value product categories.</li>
+            <li>Watches & Gifts was one of the top revenue-generating categories despite selling fewer units than several other categories.</li>
+            <li>The category's strong performance is supported by a relatively high AOV, allowing it to generate high revenue with fewer sales.</li>
+            <li>This highlights the importance of higher-value product categories.</li>
           </ul>
         </li>
         <li><strong>Bed, Bath & Table Led in Units Sold</strong>
           <ul>
             <li>Bed, Bath & Table recorded the highest sales volume, with more than 11,000 items sold during the period.</li>
-            <li>Unlike Watches & Gifts, this category relies on transaction volume rather than high AOV to generate revenue.</li>
+            <li>The category consistently attracted many purchases, demonstrating widespread consumer demand.</li>
+            <li>Its strong transaction volume makes it one of the most important categories for driving customer activity on the platform.</li>
           </ul>
         </li>
-        <li><strong>High-AOV Categories Generate Strong Revenue Despite Low Volume</strong>
+      </ol>
+      <strong>Scatter Plot Findings</strong>
+      <ol>
+        <li><strong>Revenue Is Driven by Both Sales Volume and AOV</strong>
           <ul>
-            <li>Categories such as Computers, Musical Instruments, and Small Appliances have larger bubble sizes, indicating higher AOV despite lower sales volume.</li>
-            <li>These categories demonstrate that premium product segments can drive meaningful revenue without high order counts.</li>
+            <li>Categories in the upper-right area of the scatter plot, such as Health & Beauty, Sports & Leisure, Computers & Accessories, and Bed, Bath & Table, show strong performance in both revenue and items sold.</li>
+            <li>These categories consistently perform well in both sales volume and revenue, making them key drivers of business performance.</li>
+          </ul>
+        </li>
+        <li><strong>Large Bubble Sizes Highlight High-AOV Categories</strong>
+          <ul>
+            <li>Categories such as Computers, Musical Instruments, and Small Appliances have noticeably larger bubbles, indicating higher AOV.</li>
+            <li>These categories generate strong revenue even with lower sales volume because each transaction contributes more value.</li>
+            <li>This suggests that premium or higher-priced categories can be important revenue drivers despite selling fewer units.</li>
+          </ul>
+        </li>
+        <li><strong>High-Volume Categories Do Not Always Have the Highest AOV</strong>
+          <ul>
+            <li>Bed, Bath & Table has the highest number of items sold, but its bubble size is smaller compared to categories like Watches & Gifts or Computers.</li>
+            <li>This suggests that Bed, Bath & Table relies more on transaction volume than high average order value.</li>
+            <li>In contrast, Watches & Gifts relies more on higher AOV to generate revenue.</li>
+          </ul>
+        </li>
+        <li><strong>Low-Revenue Categories Cluster in the Bottom-Left</strong>
+          <ul>
+            <li>Many smaller categories appear in the bottom-left section of the scatter plot, showing low revenue, low sales volume, and generally smaller AOV.</li>
+            <li>These categories have limited impact on overall business performance and may require targeted marketing or product mix optimization.</li>
           </ul>
         </li>
       </ol>
@@ -208,12 +241,27 @@
   </tr>
   <tr>
     <td>
-      <ul>
-        <li>Most top-performing categories display stronger sales intensity during 2018 compared to 2017, indicating increasing demand as the business matured.</li>
-        <li>Health & Beauty, Computers & Accessories, Sports & Leisure, and Bed, Bath & Table experienced noticeable growth in the later periods.</li>
-        <li>Growth was distributed across multiple categories simultaneously, indicating a well-diversified revenue base and reduced single-category risk.</li>
-        <li>Seasonal demand patterns are visible across categories, with stronger performance during later quarters aligning with promotional periods.</li>
-      </ul>
+      <ol>
+        <li><strong>Category Performance Strengthened Throughout 2018</strong>
+          <ul>
+            <li>Most top-performing categories display stronger sales intensity during 2018 compared to 2017.</li>
+            <li>Health & Beauty, Computers & Accessories, Sports & Leisure, and Bed, Bath & Table experienced noticeable growth during this period.</li>
+            <li>This indicates increasing demand across multiple product categories as the business matured.</li>
+          </ul>
+        </li>
+        <li><strong>Seasonal Demand Patterns Are Visible Across Categories</strong>
+          <ul>
+            <li>Many categories show stronger performance during later quarters and early 2018 periods, suggesting the influence of promotional events and holiday shopping.</li>
+            <li>Revenue concentration during these periods highlights the importance of effective seasonal marketing campaigns.</li>
+          </ul>
+        </li>
+        <li><strong>Growth Was Distributed Across Multiple Categories</strong>
+          <ul>
+            <li>The heat map does not show dependence on a single category for growth.</li>
+            <li>Instead, several categories experienced simultaneous increases in performance, indicating a well-diversified revenue base and reduced business risk.</li>
+          </ul>
+        </li>
+      </ol>
     </td>
   </tr>
 </table>
@@ -236,10 +284,10 @@
   <tr>
     <td colspan="2">
       <ul>
-        <li>97% of customers purchased only once. While high one-time buyer rates are common in marketplace e-commerce, the scale here signals that Olist's growth depended almost entirely on new customer acquisition — a key business risk.</li>
-        <li>Repeat customers generate $260 in revenue per customer compared to $138 for one-time buyers, an 88% premium. This difference is driven by purchase frequency rather than higher spend per order — repeat customers actually spend slightly less per order ($106 vs. $126).</li>
-        <li>The main retention opportunity is encouraging customers to return, not increasing their basket size. Since repeat customers return after an average of 81 days, targeted marketing in the 30–60 day window post-purchase represents the highest-leverage action available.</li>
-        <li>Even a modest improvement — doubling the repeat customer rate from 3% to 6% — could significantly increase revenue without requiring additional customer acquisition spend.</li>
+        <li>The most striking finding in the dataset is that 97% of customers purchased only once. While a high proportion of one-time buyers is not unusual for e-commerce marketplaces where customers often arrive via search or promotions rather than brand loyalty, the scale here signals that Olist's growth was driven almost entirely by new customer acquisition. This represents a key risk, as the business depends on a constant flow of new customers, and any decline in customer acquisition would likely reduce revenue.</li>
+        <li>Repeat customers are much more valuable than one-time buyers. On average, repeat customers generate $260 in revenue compared to $138 for one-time buyers, an increase of 88%. This difference is mainly because repeat customers purchase more often, not because they spend more per order. In fact, repeat customers spend slightly less per order ($106 vs. $126).</li>
+        <li>This suggests that the main opportunity is to encourage customers to return rather than to increase spending in a single purchase. Since repeat customers make their next purchase after an average of 81 days, targeted marketing efforts during the 30–60 days after a purchase could help increase repeat purchases.</li>
+        <li>Even a small increase in the share of repeat customers, from 3% to 6%, could significantly boost revenue without attracting additional new customers.</li>
       </ul>
     </td>
   </tr>
@@ -257,25 +305,51 @@
   </tr>
   <tr>
     <td colspan="2">
-      <ul>
-        <li>São Paulo dominates Olist's revenue, accounting for 38% of total sales. The Southeast region as a whole — São Paulo, Minas Gerais, and Rio de Janeiro — consistently outperforms other regions.</li>
-        <li>Several Northern and Northeastern states show higher average order values despite generating lower total revenue, suggesting untapped demand that could be unlocked through targeted customer acquisition.</li>
-        <li>Product preferences vary notably across regions. Health & Beauty performs strongly nationwide, while Sports & Leisure, Watches & Gifts, and Computer Accessories show stronger demand in specific regions — pointing to opportunities for localized marketing and inventory strategies.</li>
-      </ul>
+      <ol>
+        <li><strong>São Paulo Dominates Olist's Revenue</strong>
+          <ul>
+            <li>São Paulo accounts for 38% of total revenue, making it Olist's largest market by a significant margin.</li>
+            <li>The state's contribution far exceeds that of other regions, highlighting its importance to overall business performance.</li>
+          </ul>
+        </li>
+        <li><strong>Revenue Is Concentrated in the Southeast Region</strong>
+          <ul>
+            <li>The sales map shows the strongest revenue performance in São Paulo, Minas Gerais, and Rio de Janeiro.</li>
+            <li>States in the Southeast consistently outperform other regions, reflecting their larger populations and stronger economic activity.</li>
+          </ul>
+        </li>
+        <li><strong>Northern States Show Higher AOV Despite Lower Revenue</strong>
+          <ul>
+            <li>The AOV map indicates that several states in the North and Northeast have higher average order values than many high-revenue states.</li>
+            <li>However, these regions contribute less overall revenue due to lower sales volumes.</li>
+            <li>This suggests an opportunity to increase revenue by expanding customer acquisition in these markets.</li>
+          </ul>
+        </li>
+        <li><strong>Product Preferences Vary by Region</strong>
+          <ul>
+            <li>The regional heatmap shows noticeable differences in category performance across Brazil.</li>
+            <li>Health & Beauty performs strongly across most regions, while categories such as Sports & Leisure, Watches & Gifts, and Computers & Accessories show stronger demand in specific regions.</li>
+            <li>These differences highlight the importance of region-specific marketing and inventory strategies.</li>
+          </ul>
+        </li>
+      </ol>
     </td>
   </tr>
 </table>
 
 <table align="center">
   <h1>Recommendations</h1>
-  <h4>Based on the insights uncovered throughout the analysis, the following actions could help Olist improve revenue growth, customer retention, and regional expansion.</h4>
+  <h4>Based on the insights uncovered throughout the analysis, the following recommendations could help Olist improve revenue growth, customer retention, and regional expansion.</h4>
   <ul>
     <h3>Sales</h3>
     <li>Increase promotional activity during slower sales periods to reduce seasonal fluctuations.
-      <ul><li>Revenue experienced noticeable slowdowns during mid-2017 and early 2018 before recovering later in each year.</li></ul>
+      <ul><li>Revenue experienced noticeable slowdowns during mid-2017 and early 2018 before recovering later in the year.</li></ul>
     </li>
     <li>Leverage successful seasonal campaigns during peak shopping periods.
       <ul><li>Revenue and order volume peaked in November 2017, likely driven by Black Friday and holiday shopping demand.</li></ul>
+    </li>
+    <li>Continue focusing on customer acquisition initiatives.
+      <ul><li>Revenue growth was primarily driven by increasing order volume rather than growth in Average Order Value (AOV).</li></ul>
     </li>
     <h3>Products</h3>
     <li>Prioritize inventory and marketing investment in top-performing categories.
@@ -284,22 +358,28 @@
     <li>Expand high-AOV categories that generate strong revenue with fewer sales.
       <ul><li>Watches & Gifts, Computers, and Musical Instruments demonstrated strong revenue performance despite lower sales volume.</li></ul>
     </li>
+    <li>Use category-level insights to optimize product assortment by region.
+      <ul><li>Product demand varies across regions, suggesting opportunities for more targeted inventory allocation.</li></ul>
+    </li>
     <h3>Customer Retention</h3>
     <li>Implement retention campaigns focused on encouraging second purchases.
-      <ul><li>Repeat customers represent only 3% of the customer base but generate 6% of total revenue and nearly double the revenue per customer.</li></ul>
+      <ul><li>Repeat customers represent only 3% of the customer base but generate 6% of total revenue.</li></ul>
     </li>
-    <li>Re-engage customers within the first three months after their initial purchase.
-      <ul><li>Repeat customers return after an average of 81 days, providing a clear and actionable remarketing window.</li></ul>
+    <li>Re-engage customers within the first three months after purchase.
+      <ul><li>Repeat customers return after an average of 81 days, providing a clear window for remarketing efforts.</li></ul>
+    </li>
+    <li>Increase customer lifetime value through loyalty and personalized promotions.
+      <ul><li>Repeat customers generate $260 in revenue per customer compared to $138 for one-time buyers.</li></ul>
     </li>
     <h3>Regions</h3>
-    <li>Continue strengthening Olist's presence in São Paulo and the Southeast.
+    <li>Continue strengthening Olist's presence in São Paulo and the Southeast region.
       <ul><li>São Paulo alone accounts for 38% of total revenue and remains the company's most important market.</li></ul>
     </li>
-    <li>Expand customer acquisition efforts in underpenetrated northern and northeastern states.
-      <ul><li>Several states in these regions show relatively high AOV despite low order volumes, indicating willingness to spend.</li></ul>
+    <li>Expand customer acquisition efforts in underpenetrated regions.
+      <ul><li>Several Northern and Northeastern states show relatively high AOV despite generating lower overall revenue.</li></ul>
     </li>
-    <li>Develop region-specific marketing strategies based on category demand patterns.
-      <ul><li>Product preferences vary across regions, creating opportunities for localized promotions and more efficient inventory allocation.</li></ul>
+    <li>Develop region-specific marketing strategies based on category demand.
+      <ul><li>Product preferences vary across regions, creating opportunities for localized promotions and merchandising.</li></ul>
     </li>
   </ul>
 </table>
