@@ -249,11 +249,9 @@
   <h1 align="center">Regional Results</h1>
   <tr>
     <td width="500" align="center">
-      
       <img width="450" src="https://raw.githubusercontent.com/aliisajad/Olist_Ecommerce/master/images/11.png" alt="Brazil choropleth map showing sales by state" />
     </td>
     <td width="500" align="center">
-      
       <img width="450" src="https://raw.githubusercontent.com/aliisajad/Olist_Ecommerce/master/images/12.png" alt="Brazil choropleth map showing AOV by state" />
     </td>
   </tr>
