@@ -1,3 +1,6 @@
+<div align="center">
+  <img width="320px" src="https://raw.githubusercontent.com/aliisajad/Olist_Ecommerce/master/images/olist-logo.png" />
+</div>
 <h1 align="center">Olist E-Commerce Performance Report</h1>
 
 <table align="center">
@@ -185,7 +188,7 @@
             <li>Unlike Watches & Gifts, this category relies on transaction volume rather than high AOV to generate revenue.</li>
           </ul>
         </li>
-        <li><strong>High-AOV Categories Cluster Despite Low Volume</strong>
+        <li><strong>High-AOV Categories Generate Strong Revenue Despite Low Volume</strong>
           <ul>
             <li>Categories such as Computers, Musical Instruments, and Small Appliances have larger bubble sizes, indicating higher AOV despite lower sales volume.</li>
             <li>These categories demonstrate that premium product segments can drive meaningful revenue without high order counts.</li>
@@ -222,7 +225,7 @@
       <img width="400" src="https://raw.githubusercontent.com/aliisajad/Olist_Ecommerce/master/images/8.png" alt="Donut chart showing 97% one-time vs 3% repeat customers" />
     </td>
     <td width="500" align="center">
-      <img width="300" src="https://raw.githubusercontent.com/aliisajad/Olist_Ecommerce/master/images/9.png" alt="Bar chart comparing AOV of one-time vs repeat customers" />
+      <img width="300" src="https://raw.githubusercontent.com/aliisajad/Olist_Ecommerce/master/images/9.png" alt="Bar chart comparing revenue of one-time vs repeat customers" />
     </td>
   </tr>
   <tr>
@@ -252,12 +255,6 @@
     <td width="500" align="center">
       <h3>AOV by State</h3>
       <img width="450" src="https://raw.githubusercontent.com/aliisajad/Olist_Ecommerce/master/images/12.png" alt="Brazil choropleth map showing AOV by state" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3>Category Performance by Region</h3>
-      <img width="900" src="https://raw.githubusercontent.com/aliisajad/Olist_Ecommerce/master/images/13.png" alt="Regional category heatmap across Brazilian regions" />
     </td>
   </tr>
   <tr>
